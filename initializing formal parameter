@@ -1,0 +1,9 @@
+class Person{
+  String name = "Guest";
+  String?addres;
+  final String country = "wakanda";
+
+  Person(this.name, this.addres){
+    
+  }
+}
